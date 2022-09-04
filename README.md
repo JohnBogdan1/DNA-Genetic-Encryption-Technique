@@ -9,7 +9,7 @@ Retrieved from: www.mecs-press.org/ijcnis/ijcnis-v8-n7/IJCNIS-V8-N7-1.pdf
 #### Update
 
 - Added the decryption
-- Added script to run encryption + decryption
-- Added utils file where I added the methods and variables used in both operations
-- Updated the encryption to write the decription key string (i.e. key + {number of rounds, the random values used in reshape, crossover, mutation}) to a file
-- Adjusted the reshape method to work as intended.
+- Added a script to run encryption + decryption
+- Added a utils file where I added the methods and constants used in both operations
+- Updated the encryption to write the decryption key string (i.e. key + {number of rounds, the random values used in reshape, crossover, mutation}) to a file
+- Adjusted the reshape method to work as intended
